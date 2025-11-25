@@ -1,3 +1,18 @@
+Issue Tracker (React)
+
+A simple Issue Tracker application built using React, demonstrating the CRUD pattern (Create, Read, Update) with interactive UI components. The app is inspired by tools like GitHub Issues and Jira, but implemented in a simplified format for learning purposes.
+
+**Features:**
+View a list of issues
+Filter issues by status (Open, In Progress, Closed)
+Add new issues with fields:
+Title
+Owner
+Status
+Effort (in days)
+Due Date
+Change issue status directly from the table using a dropdown
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
